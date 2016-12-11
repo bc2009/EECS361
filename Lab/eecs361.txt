@@ -1,0 +1,13 @@
+#--Mentor TOOLS --#
+
+# Mentor Requires the following
+
+setenv MGLS_LICENSE_FILE 1717@mentorlm.eecs.northwestern.edu
+setenv MGC_HOME /vol/mentor                    
+setenv CALIBRE_HOME /vol/mentor/ss5_cal_2007.3_27.17
+setenv PATH ${PATH}:/vol/mentor/modelsim6.3c/modeltech/modelsim.ini
+setenv PATH ${PATH}:/vol/mentor/modelsim6.3c/modeltech/bin
+
+
+ 
+
